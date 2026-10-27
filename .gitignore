@@ -1,0 +1,30 @@
+# Secrets & Local Environment
+.env
+*.env.local
+
+# Java & Maven
+target/
+*.class
+.mvn/
+*.jar
+*.war
+
+# Node & Angular
+node_modules/
+dist/
+.angular/
+npm-debug.log*
+
+# IDE & Editor
+.idea/
+*.iml
+.vscode/
+*.suo
+*.user
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
